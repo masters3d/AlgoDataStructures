@@ -7,7 +7,7 @@ Notes and Implementation of different Algorithms and Datastructes
 https://en.wikipedia.org/wiki/Introsort  
 
 
-### Existential:  
+### Existential Notes:  
 I've been sort of confused about what an existential is. In Swift, this comes up a lot when talking about Generics. My understanding is that these pretty much things that describe types but they are not necessarily types themselves? So an interface/protocol is an existential in swift. 
 
 * https://medium.com/@vhart/protocols-generics-and-existential-containers-wait-what-e2e698262ab1
