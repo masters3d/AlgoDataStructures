@@ -24,4 +24,7 @@ Other definitions seem to relate the idea of Existential to some form of generic
 
 While a single protocol/interface/trail can be considered an existential, it is not until you combine multiple existential that you can see the power of this feature. Another key point of an existential seems that it is supposed to hide the actual concrete type.  This comes up a lot with type erasure containers. 
 
+* https://stackoverflow.com/questions/292274/what-is-an-existential-type
+* https://gist.github.com/CMCDragonkai/b203769c588caddf8cb051529339635c
+
 
