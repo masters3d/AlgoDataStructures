@@ -3,8 +3,14 @@ Notes and Implementation of different Algorithms and Datastructes
 
 
 ### Links
+
+Introsort or introspective sort is a hybrid sorting algorithm that provides both fast average performance and (asymptotically) optimal worst-case performance  
 [ Swift 4 uses Introsort](https://forums.swift.org/t/revisiting-the-choice-of-sort-algorithm/8958)  
 https://en.wikipedia.org/wiki/Introsort  
+
+## Stable Sort
+Timsort is a hybrid stable sorting algorithm, derived from merge sort and insertion sort
+https://en.wikipedia.org/wiki/Timsort
 
 
 ### Existential Notes:  
