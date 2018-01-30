@@ -2,7 +2,7 @@
 Notes and Implementation of different Algorithms and Datastructes
 
 
-### Links
+### Sorting
 
 Introsort or introspective sort is a hybrid sorting algorithm that provides both fast average performance and (asymptotically) optimal worst-case performance  
 [ Swift 4 uses Introsort](https://forums.swift.org/t/revisiting-the-choice-of-sort-algorithm/8958)  
@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/Introsort
 Timsort is a hybrid stable sorting algorithm, derived from merge sort and insertion sort
 https://en.wikipedia.org/wiki/Timsort
 
+Block sort, or block merge sort, is a sorting algorithm combining at least two merge operations with an insertion sort to arrive at O(n log n) in-place stable sorting.  
+https://en.wikipedia.org/wiki/Block_sort
 
 ### Existential Notes:  
 I've been sort of confused about what an existential is. In Swift, this comes up a lot when talking about Generics. My understanding is that these pretty much things that describe types but they are not necessarily types themselves? So an interface/protocol is an existential in swift. 
