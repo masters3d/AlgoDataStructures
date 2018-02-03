@@ -1,6 +1,8 @@
 # AlgoDataStructures
 Notes and Implementation of different Algorithms and Datastructes
 
+#### Random Personal Notes
+https://gist.github.com/masters3d/9b0fc82de8a349e290bff270cb97bbe8#file-datastructures-md
 
 ### Sorting
 
