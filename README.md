@@ -4,6 +4,10 @@ Notes and Implementation of different Algorithms and Datastructes
 #### Random Personal Notes
 https://gist.github.com/masters3d/9b0fc82de8a349e290bff270cb97bbe8#file-datastructures-md
 
+
+#### Algorithms in Swift
+https://github.com/apple/swift/blob/3543625a41f6e2d06a1d41ee0082ee3d2001820c/test/Prototypes/Algorithms.swift
+
 ### Sorting
 
 Introsort or introspective sort is a hybrid sorting algorithm that provides both fast average performance and (asymptotically) optimal worst-case performance  
