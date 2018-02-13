@@ -37,15 +37,15 @@ func printNode<T>(_ that: Node<T>?){
 
 
 func reverse<T>(_ nodeIn:Node<T>?) -> Node<T>? {
-    var next = nodeIn
+    var node = nodeIn
     var newRoot:Node<T>?
-    while let currentNext = next {
-        let this = Node<T>()
-        this.next = newRoot
-        this.value = currentNext.value
+    while node != nil {
+        let current = Node<T>()
+        current.next = newRoot
+        current.value = node?.value
 
-        next = currentNext.next
-        newRoot = this
+        node = node?.next
+        newRoot = current
     }
     return newRoot
 }
