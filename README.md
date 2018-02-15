@@ -8,6 +8,15 @@ https://gist.github.com/masters3d/9b0fc82de8a349e290bff270cb97bbe8#file-datastru
 #### Algorithms in Swift
 https://github.com/apple/swift/blob/3543625a41f6e2d06a1d41ee0082ee3d2001820c/test/Prototypes/Algorithms.swift
 
+
+#### Protocols with Associated Types
+"A protocol with associated type is just a fancy term to a protocol that has generics in it".
+https://www.natashatherobot.com/swift-what-are-protocols-with-associated-types/   
+
+Protocols with Self requirements can only be used as a Generic Constrain.
+https://stackoverflow.com/questions/24926310/what-does-protocol-can-only-be-used-as-a-generic-constraint-because-it-has
+This means that you can only make sure that something conforms to the protocol but you are not able to speicy the types of protocols that something should conform to, the difference is subtly and it only comes up in syntax, usually this required saying `where T:SomeProto` instead of just saying `T:SomeProto`. The self requirements throws a rench in the gears. 
+
 ### Sorting
 
 Introsort or introspective sort is a hybrid sorting algorithm that provides both fast average performance and (asymptotically) optimal worst-case performance  
