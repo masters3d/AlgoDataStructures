@@ -31,6 +31,10 @@ Block sort, or block merge sort, is a sorting algorithm combining at least two m
 https://en.wikipedia.org/wiki/Block_sort
 
 ### Existential Notes:  
+
+Chapter 24 of Types and Programming Languages by [Piece](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)  
+Polymorphism, Objects and Abstract Types [link](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/sigact.pdf)   
+
 I've been sort of confused about what an existential is. In Swift, this comes up a lot when talking about Generics. My understanding is that these pretty much things that describe types but they are not necessarily types themselves? So an interface/protocol is an existential in swift. 
 
 * https://medium.com/@vhart/protocols-generics-and-existential-containers-wait-what-e2e698262ab1
