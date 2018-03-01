@@ -32,6 +32,8 @@ https://en.wikipedia.org/wiki/Block_sort
 
 ### Existential Notes:  
 
+In swift this can be refered as Protocol as Types. [Related](https://forums.swift.org/t/what-is-a-covariant-generalization/10481/2?u=masters3d)
+
 Chapter 24 of Types and Programming Languages by [Piece](https://www.asc.ohio-state.edu/pollard.4/type/books/pierce-tpl.pdf)  
 Polymorphism, Objects and Abstract Types [link](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/sigact.pdf)   
 
